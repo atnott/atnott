@@ -6,4 +6,4 @@
 * 1st year student
 * I have experience working as a marketer
 * I've been doing my own thing for 2 years now
-* I use HTML, CSS, JavaScrip, Python, C++
+* I use HTML, CSS, JavaScript, Python, C++
